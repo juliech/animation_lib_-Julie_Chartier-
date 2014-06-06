@@ -7,11 +7,15 @@ Pour chacune d’elles,  vous devez les inclure comme des class dans votre page 
 
 
 Les voici:
-.battementCoeur : cette animation reproduit le mouvement que fait un battement de coeur
-.deplacementDroite:  cette animation fait un déplacement à droite de l'élément avec un changement de couleur en arrière-plan et une réduction d'opacité
-.pivote : cette animation fait pivoter à gauche et à droite un élément.  Lorsque cette animation est sur un texte, le texte change de couleur lorsqu'il est à l'envers ou à l’endroit
-.balance : cette animation fait balancer un élément de gauche à droite.  La couleur de l’ombrage de l’élément se change aussi selon qu’il est à gauche ou à droite.
-.tomberBas : cette animation fait tomber de haut en bas un élément avec un léger rebondissement à la fin.
+battementCoeur : cette animation reproduit le mouvement que fait un battement de coeur
+
+deplacementDroite:  cette animation fait un déplacement à droite de l'élément avec un changement de couleur en arrière-plan et une réduction d'opacité
+
+pivote : cette animation fait pivoter à gauche et à droite un élément.  Lorsque cette animation est sur un texte, le texte change de couleur lorsqu'il est à l'envers ou à l’endroit
+
+balance : cette animation fait balancer un élément de gauche à droite.  La couleur de l’ombrage de l’élément se change aussi selon qu’il est à gauche ou à droite.
+
+tomberBas : cette animation fait tomber de haut en bas un élément avec un léger rebondissement à la fin.
 
 
 
