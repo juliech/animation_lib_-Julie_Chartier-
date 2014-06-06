@@ -7,6 +7,7 @@ Pour chacune d’elles,  vous devez les inclure comme des class dans votre page 
 
 
 Les voici:
+
 battementCoeur : cette animation reproduit le mouvement que fait un battement de coeur
 
 deplacementDroite:  cette animation fait un déplacement à droite de l'élément avec un changement de couleur en arrière-plan et une réduction d'opacité
